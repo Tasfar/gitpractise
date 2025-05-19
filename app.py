@@ -1,4 +1,4 @@
- x = int(input("a number: "))
+ #x = int(input("a number: "))
 
-print(x)
+#print(x)
 
